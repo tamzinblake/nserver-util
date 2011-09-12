@@ -5,9 +5,9 @@
 , "version" : "0.0.0"
 , "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/thomblake/util.git"
+  , "url" : "https://github.com/thomblake/nserver-util.git"
   }
 , "bugs" :
-  { "web" : "http://github.com/thomblake/util/issues"
+  { "web" : "http://github.com/thomblake/nserver-util/issues"
   }
 }
