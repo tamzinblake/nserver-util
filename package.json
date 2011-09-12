@@ -1,6 +1,6 @@
-{ "name": "util"
+{ "name": "nserver-util"
 , "author" : "Thom Blake <thethomblake@gmail.com> (http://thomblake.com)"
-, "description" : "Some useful utils for js"
+, "description" : "Utils used by nserver programs"
 , "keywords" : [ "utils" ]
 , "version" : "0.0.0"
 , "repository" :
